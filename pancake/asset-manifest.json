@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.96ab2d53.chunk.js": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/0.96ab2d53.chunk.js",
     "static/js/0.96ab2d53.chunk.js.map": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/0.96ab2d53.chunk.js.map",
-    "main.js": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/main.58a62664.chunk.js",
-    "main.js.map": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/main.58a62664.chunk.js.map",
+    "main.js": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/main.9db3392e.chunk.js",
+    "main.js.map": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/main.9db3392e.chunk.js.map",
     "runtime-main.js": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/runtime-main.9daf98ca.js",
     "runtime-main.js.map": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/js/runtime-main.9daf98ca.js.map",
     "static/css/3.da038726.chunk.css": "https://kiemtienonline360.github.io/bsc-swap-simulation/pancake/static/css/3.da038726.chunk.css",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.9daf98ca.js",
     "static/css/3.da038726.chunk.css",
     "static/js/3.1e59b470.chunk.js",
-    "static/js/main.58a62664.chunk.js"
+    "static/js/main.9db3392e.chunk.js"
   ]
 }
